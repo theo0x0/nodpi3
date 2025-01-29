@@ -2,7 +2,7 @@
 Unfinished modification of https://github.com/theo0x0/nodpi2
 
 Transmits parts of TLS handshake to be sent from another computer as a row IPv6 packet.
-This data is being transmitted through the internet as a DNS query for further resistance.
+This data is being transmitted through the internet as a DNS query for further DPI resistance.
 From user's computer sends random/fake data to bypass DPI.
 
 ## Usage
